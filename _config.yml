@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Arturo Bertero"
   avatar           : "my_photo.jpeg"
+  circular_avatar  : "true"
   bio              : "Ph.D. Student in Political Science, University of Milan"
   location         : "Turin, Italy"
   employer         :
