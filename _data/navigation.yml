@@ -5,15 +5,18 @@ main:
     
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=it&user=C5ps1gwAAAAJ
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/ 
+
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
 #   - title: "Research"
 #    url: /research/ 
 
-#   - title: "Talks"
-#    url: /talks/    
+   
 
 #  - title: "Teaching"
 #    url: /teaching/    
