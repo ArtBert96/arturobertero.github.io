@@ -1,5 +1,5 @@
 ---
-title: "Chilean Social Network Conference (CHISOCNET) | How do people understand inequality in Chile? | Franetovic and Bertero)"
+title: "Chilean Social Network Conference (CHISOCNET): How do people understand inequality in Chile? (Franetovic and Bertero)"
 collection: Conference
 author: Franetovic G., Bertero A.
 type: "Conference"
