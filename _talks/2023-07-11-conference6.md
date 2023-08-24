@@ -3,7 +3,7 @@ title: "ESRA: Overcoming the structuralist/individualist dichotomy (II) (Bertero
 collection: Conference
 author: Bertero A., Franetovic G.
 type: "Conference"
-permalink: /talks/2023-06-28-conference-5
+permalink: /talks/2023-07-11-conference-6
 date: 2023-07-11
 ---
 In July 2023, Gonzalo Franetovic presented at [ESRA](https://www.europeansurveyresearch.org/conf2023/prog.php) a second version of the 
