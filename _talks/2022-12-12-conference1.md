@@ -1,6 +1,5 @@
 ---
-title: "1st ISSP User Conference on Social Inequality | Overcoming the structuralist/individualist dichotomy: Inequality beliefs from a new network and
-comparative perspective | Franetovic and Bertero"
+title: "1st ISSP User Conference on Social Inequality: Overcoming the structuralist/individualist dichotomy (Franetovic and Bertero)"
 collection: Conference
 author: Franetovic G., Bertero A.
 type: "Conference"
