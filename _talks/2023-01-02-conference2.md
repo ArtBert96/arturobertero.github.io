@@ -1,11 +1,10 @@
 ---
-title: "1st ISSP User Conference on Social Inequality: Overcoming the structuralist/individualist dichotomy: Inequality beliefs from a new network and
-comparative perspective (Franetovic and Bertero)"
+title: "Chilean Social Network Conference (CHISOCNET) | How do people understand inequality in Chile? | Franetovic and Bertero)"
 collection: Conference
 author: Franetovic G., Bertero A.
 type: "Conference"
-permalink: /talks/2022-12-12-conference-1
-date: 2022-12-12
+permalink: /talks/2023-01-02-conference-2
+date: 2023-01-02
 ---
 
-In December 2022 Gonzalo Franetovic and I were pleased to present at the **1st ISSP User Conference on Social Inequality**. We showed how [*Exploratory Graph Analysis*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174035) can be leveraged to isolate three dimensions of inequality beliefs in all the ISSP countries. This represents an important finding, since most of the literature was anchored to the structuralist/individualist dichotomy. The pdf of the presentation can be found [here](https://artbert96.github.io/arturobertero.github.io/files/ISSP.pdf). 
+In January 2023 Gonzalo Franetovic and I were pleased to present at [**CHISOCNET**](https://chisocnetdotorg.files.wordpress.com/2023/01/chisocnet-programa.pdf). We adopted network analysis on attitudes toward inequality to investigate how people understand this complex socio-political phenomenon in Chile. Results show that these attitudes are part of a single belief system and that people from lower social status positions have a more multidimensional understanding of inequality. You can find the slides [here](https://artbert96.github.io/arturobertero.github.io/files/CHISOCNET.pdf)
