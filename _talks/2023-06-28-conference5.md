@@ -12,4 +12,4 @@ hesitancy. The literature on the topic usually conceives hesitancy as a dependen
 approach. To mitigate this limitation, I try to study hesitancy as an emergent phenomenon whose state depends on the intricate relationships occurring 
 between its predictors. In the results, I show that this behavior is strongly influenced by a restricted list of variables that I label
 *empirical predictors*. This can help design effective intervention strategies. 
-Slides are available [here](https://artbert96.github.io/arturobertero.github.io/files/CCA.pdf)
+Slides are available [here](https://arturobertero.github.io/files/CCA.pdf)
