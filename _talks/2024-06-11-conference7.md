@@ -3,7 +3,7 @@ title: "Presentation of my PhD project"
 collection: Conference
 author: Bertero A.
 type: "Conference"
-permalink: /talks/2024-06-11-conference7
+permalink: /talks/2024-06-11-conference-7
 date: 2024-06-11
 ---
 In July 2024, I have finally presented the final version of my PhD project to professors and research groups of various universities. 
