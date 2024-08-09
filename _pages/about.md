@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [NASP, University of Milan](https://www.nasp.eu/people/students/students-cohorts/arturo-bertero.html). In my BA and MA, I primarily studied Political Communication. Now I am interested in sociopolitical attitudes and political belief systems. Here you find my **CV**, **publications**, and **blog posts**. You can contact me through the channels highlighted on the left. 
+I am a Ph.D. student at [NASP, University of Milan](https://www.nasp.eu/people/students/students-cohorts/arturo-bertero.html). In my BA and MA, I primarily studied Political Communication. Now I am interested in sociopolitical attitudes and political belief systems. Here you find my **CV**, **publications**, and **blog posts**. You can contact me through the channels highlighted on the left (desktop website), or at: arturo.bertero@unimi.it. 
+
+Latest publication
+======
+Inequality belief systems: [Open Access](https://link.springer.com/article/10.1007/s11205-024-03352-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240717&utm_content=10.1007/s11205-024-03352-5)
 
 Relevant Info
 ======
